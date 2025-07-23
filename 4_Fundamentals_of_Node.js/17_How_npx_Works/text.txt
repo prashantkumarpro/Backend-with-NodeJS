@@ -1,0 +1,25 @@
+What does npx
+searches for a file and executes it.
+
+npm searching step
+step1:
+    searches for package.json in current working directory
+    searches for name key in the json
+    searches for bin key in package.json
+
+step2:
+    searches for node_modules\bin\hello in current directory 
+    and executes the file
+
+step3:
+    searches for hello in global npm folder
+    and executes this file
+
+step4:
+    searches for hello package in npx cache
+    and executes this file
+
+step5:
+    searches for hello package in npm registery
+    Prompts to install the package if found
+    downloads and install

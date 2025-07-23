@@ -1,0 +1,10 @@
+types of path
+
+relative path : text.txt
+src\test.js
+.src\test.js
+
+absolute path : C:\Users\HP\Documents\NodeJS\Section3_Basic_Of_OS\10_FILE_SYSTEM\text.txt
+
+\ - back slace
+/ - forword slace 
