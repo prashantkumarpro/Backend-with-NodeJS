@@ -1,0 +1,27 @@
+10:43:19 pm
+ENOENT: no such file or directory, open 'C:\Users\HP\Documents\Backend NodeJS\4_Fundamentals_of_Node.js\Writing_to_a_File_Using_Node.js\sss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Users\HP\Documents\Backend NodeJS\4_Fundamentals_of_Node.js\Writing_to_a_File_Using_Node.js\sss.jpg'
+    at async open (node:internal/fs/promises:639:25)
+    at async readFile (node:internal/fs/promises:1242:14)
+    at async file:///C:/Users/HP/Documents/Backend%20NodeJS/4_Fundamentals_of_Node.js/Writing_to_a_File_Using_Node.js/app.js:10:25\n10:45:03 pm
+
+10:45:36 pm
+ENOENT: no such file or directory, open 'C:\Users\HP\Documents\Backend NodeJS\4_Fundamentals_of_Node.js\Writing_to_a_File_Using_Node.js\sss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Users\HP\Documents\Backend NodeJS\4_Fundamentals_of_Node.js\Writing_to_a_File_Using_Node.js\sss.jpg'
+    at async open (node:internal/fs/promises:639:25)
+    at async readFile (node:internal/fs/promises:1242:14)
+    at async file:///C:/Users/HP/Documents/Backend%20NodeJS/4_Fundamentals_of_Node.js/Writing_to_a_File_Using_Node.js/app.js:10:25
+
+10:46:19 pm
+ENOENT: no such file or directory, open 'C:\Users\HP\Documents\Backend NodeJS\4_Fundamentals_of_Node.js\Writing_to_a_File_Using_Node.js\sss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Users\HP\Documents\Backend NodeJS\4_Fundamentals_of_Node.js\Writing_to_a_File_Using_Node.js\sss.jpg'
+    at async open (node:internal/fs/promises:639:25)
+    at async readFile (node:internal/fs/promises:1242:14)
+    at async file:///C:/Users/HP/Documents/Backend%20NodeJS/4_Fundamentals_of_Node.js/Writing_to_a_File_Using_Node.js/app.js:10:25
+
+10:46:38 pm
+ENOENT: no such file or directory, open 'C:\Users\HP\Documents\Backend NodeJS\4_Fundamentals_of_Node.js\Writing_to_a_File_Using_Node.js\sss.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Users\HP\Documents\Backend NodeJS\4_Fundamentals_of_Node.js\Writing_to_a_File_Using_Node.js\sss.jpg'
+    at async open (node:internal/fs/promises:639:25)
+    at async readFile (node:internal/fs/promises:1242:14)
+    at async file:///C:/Users/HP/Documents/Backend%20NodeJS/4_Fundamentals_of_Node.js/Writing_to_a_File_Using_Node.js/app.js:10:25
